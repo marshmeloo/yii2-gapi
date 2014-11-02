@@ -1,0 +1,21 @@
+{
+    "name": "marshmeloo/yii2-gapi",
+    "description": "Chart on sessions",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","gapi","marshmeloo"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "vineet",
+            "email": "vineet.kharwar@gaboli.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "marshmeloo\\gapi\\": ""
+        }
+    }
+}
