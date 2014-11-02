@@ -2,8 +2,13 @@
     "name": "marshmeloo/yii2-gapi",
     "description": "Chart on sessions",
     "type": "yii2-extension",
+	"homepage": "https://github.com/marshmeloo/yii2-gapi",
     "keywords": ["yii2","extension","gapi","marshmeloo"],
-    "license": "Apache-2.0",
+	"license": "Gaboli",
+    "support": {
+        "issues": "https://github.com/marshmeloo/yii2-gapi/issues",
+        "source": "https://github.com/marshmeloo/yii2-gapi"
+    },
     "authors": [
         {
             "name": "vineet",
